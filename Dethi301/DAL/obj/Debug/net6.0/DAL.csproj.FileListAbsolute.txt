@@ -1,0 +1,14 @@
+D:\TuanNC15\SOF205N\Dethi301\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\TuanNC15\SOF205N\Dethi301\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\TuanNC15\SOF205N\Dethi301\DAL\bin\Debug\net6.0\DAL.dll
+D:\TuanNC15\SOF205N\Dethi301\DAL\bin\Debug\net6.0\DAL.pdb
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.dll
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.pdb
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\TuanNC15\SOF205N\Dethi301\DAL\obj\Debug\net6.0\ref\DAL.dll
